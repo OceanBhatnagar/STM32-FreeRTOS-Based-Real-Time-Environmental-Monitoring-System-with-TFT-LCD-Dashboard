@@ -3,10 +3,11 @@
 This repository contains the source code and documentation for **STM32 FreeRTOS-Based Real-Time Environmental Monitoring System with TFT LCD Dashboard**, where an STM32 microcontroller interfaces with multiple sensors (DHT11, BMP280, MQ135) and RTC to acquire environmental data and display it on an ILI9488 TFT LCD.  
 The project demonstrates real-time embedded system design using custom device drivers, FreeRTOS task scheduling, and optimized LCD memory management for smooth, flicker-free rendering.
 
-## 📸 Project Setup
-
-![Environmental Monitoring Setup](./Project%20Photograph.jpeg)
-
+<p align="center">
+  <img src="https://github.com/OceanBhatnagar/STM32-FreeRTOS-Based-Real-Time-Environmental-Monitoring-System-with-TFT-LCD-Dashboard/blob/main/Project%20Photograph.jpeg?raw=true" alt="STM32 FreeRTOS Environmental Monitoring System" width="750">
+  <br>
+  <strong>Real-Time Environmental Monitoring System Hardware</strong>
+</p>
 
 ## Features  
 - Multi-Sensor Integration: Temperature, humidity, pressure, and air quality monitoring  
